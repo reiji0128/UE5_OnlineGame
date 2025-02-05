@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\reiji\\Desktop\\UE5_OnlineGame\\Game\\Source\\Game\\Game.Build.cs",
+		"C:\\Users\\reiji\\Desktop\\UE5_OnlineGame\\Game\\Source\\Game.Target.cs",
+		"C:\\Users\\reiji\\Desktop\\UE5_OnlineGame\\Game\\Source\\GameEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.3"
+}

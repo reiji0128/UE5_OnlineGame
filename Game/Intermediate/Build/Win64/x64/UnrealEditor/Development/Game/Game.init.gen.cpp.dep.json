@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\reiji\\desktop\\ue5_onlinegame\\game\\intermediate\\build\\win64\\unrealeditor\\inc\\game\\uht\\game.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\reiji\\desktop\\ue5_onlinegame\\game\\intermediate\\build\\win64\\x64\\gameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\reiji\\desktop\\ue5_onlinegame\\game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\game\\definitions.game.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
