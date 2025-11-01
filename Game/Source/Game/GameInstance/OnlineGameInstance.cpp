@@ -16,6 +16,17 @@ void UOnlineGameInstance::Init()
 		UE_LOG(LogTemp, Error, TEXT("Steam API Initialization Failed"));
 	}
 
+	/*IOnlineSubsystem* OnlineSubsystem = nullptr;
+	for (int32 i = 0; i < 2; i++)
+	{
+		if (ULocalPlayer* localPlayer = GetLocalPlayerByIndex(0))
+		{
+			if (localPlayer)
+			{
+				OnlineSubsystem = IOnlineSubsystem::Get();
+			}
+		}
+	}*/
 	IOnlineSubsystem* OnlineSubsystem = IOnlineSubsystem::Get();
 
 	if (OnlineSubsystem)
