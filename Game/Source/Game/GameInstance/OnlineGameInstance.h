@@ -18,6 +18,8 @@ public:
 
 	virtual void Init() override;
 
+	IOnlineSessionPtr GetOnlineSessionInterface() const { return OnlineSessionInterface; }
+
 private:
 	IOnlineSessionPtr OnlineSessionInterface = nullptr;
 };
